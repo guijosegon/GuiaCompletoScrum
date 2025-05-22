@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Scrum-Framework%20Ágil-blue" alt="Scrum - Framework Ágil">
   <img src="https://img.shields.io/badge/Licença-MIT-green" alt="Licença MIT">
-  <img src="https://img.shields.io/badge/Versão-1.0-orange" alt="Versão 1.0">
 </div>
 
 <p align="center">
